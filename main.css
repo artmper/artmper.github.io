@@ -15,7 +15,6 @@ main {
 }
 
 .content ul {
-  display: inline-block;
   text-align: left;
   color: #010d15;
   font-size: 16px;
@@ -29,14 +28,14 @@ main {
 }
 
 img {
-  width: 150px;
-  height: 150px;
+  width: 86px;
+  height: 86px;
   border-radius: 50%;
 }
 
 nav ul {
   list-style-position: inside;
-  text-align: center;
+  text-align: right;
 }
 
 .box {
@@ -45,6 +44,8 @@ nav ul {
   
   border-width: 12px;
   border-color: #feacab;
+
+  margin: 12px;
 }
 
 .border-ridge {
