@@ -3,6 +3,10 @@ p {
   font-size: 18px;
 }
 
+a {
+  color: inherit;
+}
+
 body {
   background-color: #eef4ff;
 }
