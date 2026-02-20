@@ -31,7 +31,7 @@ img {
   width: 86px;
   height: 86px;
   border-radius: 50%;
-  margin-left: 300px;
+  margin: 0 auto;
 }
 
 nav ul {
@@ -52,4 +52,12 @@ nav ul {
 
 .border-ridge {
   border-style: ridge;
+}
+
+.contacts {
+  text-align: center;
+}
+
+#me {
+  text-align: center;
 }
